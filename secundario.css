@@ -1,0 +1,36 @@
+#mensaje{
+    visibility: hidden;
+}
+
+.conclusion:hover{
+    cursor: pointer;
+}
+.textoresaltado{
+    background-color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.puntero{
+    border-width: 2em;
+    border-style: ridge;
+    border-color: green;
+}
+
+.colortexto{
+    background-color:tomato
+}
+
+.boton:hover{
+    cursor: pointer;
+}
+
+h1{
+    margin-right: 10%;
+    padding: 20%;
+    border: 0.2em; solid
+}
+
+h2{
+    padding: 10%;
+    border: 0.1em; 
+}

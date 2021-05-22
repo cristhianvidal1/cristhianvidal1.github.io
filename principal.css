@@ -1,0 +1,20 @@
+/*Modificacion de cabeceras h2*/
+h2, h3, h4{
+    color: yellow
+}
+
+.mensaje{
+    background-color: darkgreen;
+}
+body{
+    /*background-image: url('Imagen/univer.jpg');*/
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin: auto;
+    background-attachment: fixed;
+    background-size: 40%;
+}
+
+p.colortexto{
+    color: red;
+}
